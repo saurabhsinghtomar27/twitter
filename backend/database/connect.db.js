@@ -8,5 +8,3 @@ const connectDb = async () => {
   }
 }
 export default connectDb;
-// yslFINC5V9pnUVgM
-// mongodb+srv://saurabhsingh04822:yslFINC5V9pnUVgM@cluster0.ecae5nk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
